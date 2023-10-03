@@ -8,3 +8,5 @@
 ## Week2
 
 [代码目录](https://github.com/daidai53/go-homework/tree/main/week2/webook)
+
+[运行效果截图](https://github.com/daidai53/go-homework/blob/main/week2/README.md)
