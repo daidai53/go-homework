@@ -17,3 +17,9 @@
 ## Week4
 
 [本地缓存实现CodeCache接口代码目录](https://github.com/daidai53/go-homework/blob/main/week4/webook/internal/repository/cache/code_local.go)
+
+## Week5
+
+[同步转异步](https://github.com/daidai53/go-homework/blob/main/week5/README.md)
+
+[代码地址](https://github.com/daidai53/webook/blob/week5/internal/service/sms/async/async.go)
